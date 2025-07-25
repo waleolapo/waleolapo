@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Profile Summary
 **Multidisciplinary Solutions Architect & AI Engineer**  
-10+ years designing scalable systems and integrating AI technologies to solve real-world problems. Passionate about AI, Superintelligence, and Transhumanism — dedicated to building intelligent, agentic systems that drive human-like automation, enhance the human experience, and contribute to a better future through innovation, science, and technology.
+10+ years designing scalable systems and integrating AI technologies to solve real-world problems. Passionate about AI, Robotics, Superintelligence, and Transhumanism — dedicated to building intelligent, agentic systems that drive human-like automation, enhance the human experience, and contribute to a better future through innovation, science, and technology.
 
 ---
 
