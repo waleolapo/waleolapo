@@ -25,16 +25,14 @@ Here are some ideas to get you started:
 
 ## 🧠 Core Competencies
 
-- **Retrieval-Augmented Generation (RAG)**
-- **Agentic Programming:** Agentic AI, LangFlow, Hugging Face, MCP
-- **API Integration & Tool Use:** Model Inference, OpenAI, Hugging Face, Gemini, xAI, Llama, LLM and GenAI
-- **Cloud Architecture:** AWS, GCP, Azure
-- **Backend Development:** Laravel, PHP, Python, Node.js, Java
-- **Frontend:** React.js, Vue.js, JavaScript, TypeScript
-- **Mobile:** Flutter, React Native
-- **DevOps:** Docker, CI/CD, Kubernetes, Nginx, Apache, Linux
-- **Blockchain & Smart Contracts:** Ethereum, Solidity, Web3.js
-- **Project Management:** Figma (JamBoard), ClickUp, Notion
+- **AI & Agentic Programming:** Retrieval-Augmented Generation (RAG), Agentic AI, LangFlow, Hugging Face, MCP, a2a  
+- **Cloud Architecture:** AWS, GCP, Azure  
+- **Backend Development:** Laravel, PHP, Python, Node.js, Java  
+- **Frontend Development:** React.js, Vue.js, JavaScript  
+- **Mobile Development:** Flutter, React Native  
+- **DevOps:** Docker, CI/CD, Kubernetes  
+- **Blockchain & Smart Contracts:** Ethereum, Solidity  
+- **Project Management:** Figma, ClickUp, Notion  
 - **Serial Entrepreneur**
 
 ---
