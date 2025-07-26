@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🧠 Core Competencies
 
-- **AI & Agentic Programming:** Retrieval-Augmented Generation (RAG), Agentic AI, LangFlow, Hugging Face, MCP, a2a  
+- **AI & Agentic Programming:** LLM, RAG, Agentic AI, LangFlow, Hugging Face, MCP, a2a  
 - **Cloud Architecture:** AWS, GCP, Azure  
 - **Backend Development:** Laravel, PHP, Python, Node.js, Java  
 - **Frontend Development:** React.js, Vue.js, JavaScript  
